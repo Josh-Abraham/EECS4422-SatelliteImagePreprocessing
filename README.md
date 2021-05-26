@@ -27,8 +27,9 @@ To run the following code you must have the following structure:
 
 
 To run:
+```
 python compareImageCannys.py --edge-detector hed_model --path images/FOLDER_NAME --start STARTING_INDEX --end ENDING_INDEX --display DISPLAY_CANNY_RESULTS
-
+```
 FOLDER_NAME: should be replaced with a folder within the images directory that has images you wish to run the preprocessing on
 STARTING_INDEX: Should be replaced with an integer value representing which image you wish to start from by index
 ENDING_INDEX: Should be replaced with an integer value representing which image you wish to end at by index, inclusively

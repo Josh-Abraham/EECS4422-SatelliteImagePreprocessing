@@ -22,4 +22,8 @@ DISPLAY_CANNY_RESULTS: Should be replaced by 1 if you wish to show the image res
 Credit:
 The hed_model directory as well as the HEDmodel.py file are taken from the Holistically-Nested Edge Detection Paper and code by Saining Xie, and Zhuowen Tu
 
-![alt text](https://github.com/Josh-Abraham/EECS4422-SatelliteImagePreprocessing/blob/master/Paper/CANNYHED.jpg?raw=true)
+
+<p align="center">
+  <img src="https://github.com/Josh-Abraham/EECS4422-SatelliteImagePreprocessing/blob/master/Paper/CANNYHED.jpg?raw=true" width="350" title="hover text">
+</p>
+
